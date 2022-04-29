@@ -27,6 +27,8 @@ git clone https://github.com/aex03/tiktokbot</pre></div>
      <div class="highlight highlight-source-shell"><pre># Install the requirements
 cd tiktokbot
 sudo apt install -r requirements.txt</pre></div>
+<div class="highlight highlight-source-shell"><pre># Download Chrome and deplace in cd tiktokbot
+https://www.google.com/chrome/?platform=linux</pre></div>
 <div class="highlight highlight-source-shell"><pre># Install Chrome
 sudo dpkg -i go	google-chrome-stable_current_amd64.deb</pre></div>
 <div class="highlight highlight-source-shell"><pre># Start the TiktokBot
