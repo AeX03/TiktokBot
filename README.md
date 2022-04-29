@@ -1,3 +1,5 @@
+<p align="center">
+<img src="https://github.com/AeX03/TiktokBot/blob/main/picture/tiktokbot.png" width="200"/>
 
 # TiktokBot
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/TiktokBot)
