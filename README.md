@@ -39,4 +39,8 @@ Python3 TiktokBot.py</pre></div>
   </tr>
  </tbody>
 </table>
+
+### Link
+<img src="https://github.com/AeX03/TiktokBot/blob/main/picture/tiko.jpg" width="420"/>
+<b> copy tiktok app link! not the webbar link! </b>
   </p align="center">
