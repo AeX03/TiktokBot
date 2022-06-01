@@ -33,6 +33,10 @@ sudo apt install -r requirements.txt</pre></div>
 https://www.google.com/chrome/?platform=linux</pre></div>
 <div class="highlight highlight-source-shell"><pre># Install Chrome
 sudo dpkg -i go	google-chrome-stable_current_amd64.deb</pre></div>
+<div class="highlight highlight-source-shell"><pre># Update the TiktokBot
+sudo bash Update.sh
+or
+sudo ./Update.sh</pre></div>
 <div class="highlight highlight-source-shell"><pre># Start the TiktokBot
 Python3 TiktokBot.py</pre></div>
         </td>
