@@ -2,18 +2,20 @@
 
  GREEN="$(printf '\033[32m')"
 
-${GREEN}echo "                                            ";
-${GREEN}echo " _____ _ _    _        _   ______       _   ";
-${GREEN}echo "|_   _(_) |  | |      | |  | ___ \     | |  ";
-${GREEN}echo "  | |  _| | _| |_ ___ | | _| |_/ / ___ | |_ ";
-${GREEN}echo "  | | | | |/ / __/ _ \| |/ / ___ \/ _ \| __|";
-${GREEN}echo "  | | | |   <| || (_) |   <| |_/ / (_) | |_ ";
-${GREEN}echo "  \_/ |_|_|\_\_\__\___/|_|\_\____/ \___/ \__|";
-${GREEN}echo "                                            ";
-${GREEN}echo "                                            ";
+echo " ${GREEN}                                             ";
+echo " ${GREEN}  _____ _ _    _        _   ______       _   ";
+echo " ${GREEN} |_   _(_) |  | |      | |  | ___ \     | |  ";
+echo " ${GREEN}   | |  _| | _| |_ ___ | | _| |_/ / ___ | |_ ";
+echo " ${GREEN}   | | | | |/ / __/ _ \| |/ / ___ \/ _ \| __|";
+echo " ${GREEN}   | | | |   <| || (_) |   <| |_/ / (_) | |_ ";
+echo " ${GREEN}   \_/ |_|_|\_\_\__\___/|_|\_\____/ \___/ \__|";
+echo " ${GREEN}                                             ";
+echo " ${GREEN}                                             ";
 
 
+echo "The script will start in 10 seconds."
 
+sleep 10s
 
 
 
