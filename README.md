@@ -29,7 +29,7 @@ sudo apt update -y && sudo apt upgrade -y
 git clone https://github.com/aex03/tiktokbot</pre></div>
      <div class="highlight highlight-source-shell"><pre># Install the requirements
 cd tiktokbot
-sudo apt install -r requirements.txt</pre></div>
+sudo pip3 install -r requirements.txt</pre></div>
 <div class="highlight highlight-source-shell"><pre># Download Chrome and deplace in cd tiktokbot
 https://www.google.com/chrome/?platform=linux</pre></div>
 <div class="highlight highlight-source-shell"><pre># Install Chrome
