@@ -11,6 +11,7 @@
 ## Tested on
 - [x] Kali Linux 2022
 - [x] Ubuntu 2022
+- [x] Windows 10/11
   
 ### Installation
   <table width="100%" style="width:100%; display:table;">
@@ -43,6 +44,10 @@ Python3 TiktokBot.py</pre></div>
   </tr>
  </tbody>
 </table>
+
+# Windows
+
+got to the realease https://github.com/AeX03/TiktokBot/releases
 
 ### Link
 <img src="https://github.com/AeX03/TiktokBot/blob/main/picture/tiko.jpg" width="420"/>
