@@ -1,1 +1,3 @@
 dpkg
+selenium
+chromedriver_binary
